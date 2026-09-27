@@ -47,8 +47,9 @@ decision authority; market value is a proxy; no causal, predictive, ranking, or 
 ## Publication state
 
 - Branch: `main`
-- Planned initial commit: `Initial public release for MIT Sloan Problem 10`
+- Initial release commit: `a496b93` — `Initial public release for MIT Sloan Problem 10`
 - Remote: exact GitHub repository above
-- Push: pending final staging audit
+- Push: successful; `main` published to `origin` and upstream tracking configured
 - Data redistribution: aggregate-only release
-- Safe to commit/push: yes, subject to the recorded final scans passing on staged content
+- Final scans: passed on staged content before the first commit
+- Safe to commit/push: yes

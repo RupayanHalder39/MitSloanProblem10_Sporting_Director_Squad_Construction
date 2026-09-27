@@ -1,0 +1,33 @@
+dimension,category,n_rows,share_of_16,note
+club_value_quartile,Q1,6,0.3750,director-level rows (co-incumbency excluded) = 6
+club_value_quartile,Q2,4,0.2500,director-level rows (co-incumbency excluded) = 4
+club_value_quartile,Q3,4,0.2500,director-level rows (co-incumbency excluded) = 4
+club_value_quartile,Q4,2,0.1250,director-level rows (co-incumbency excluded) = 0  ** Q4 = the highest-value clubs **
+season,2022-2023,8,0.5000,
+season,2023-2024,3,0.1875,
+season,2024-2025,5,0.3125,
+quality_tier,GREEN,7,0.4375,
+quality_tier,YELLOW,9,0.5625,
+director,Antonio Cordon,2,0.1250,
+director,Braulio Vazquez,3,0.1875,
+director,David Cobeno,3,0.1875,
+director,Fran Garagarza,1,0.0625,
+director,Javier Recio,1,0.0625,
+director,Jordi Cruyff,1,0.0625,
+director,Jorge Cordero,1,0.0625,
+director,Mateu Alemany,1,0.0625,
+director,Monchi,1,0.0625,
+director,Victor Orta,2,0.1250,
+club,Barcelona,2,0.1250,
+club,Cádiz,1,0.0625,
+club,Espanyol,1,0.0625,
+club,Mallorca,1,0.0625,
+club,Osasuna,3,0.1875,
+club,Rayo Vallecano,3,0.1875,
+club,Real Betis,1,0.0625,
+club,Real Valladolid,1,0.0625,
+club,Sevilla,3,0.1875,
+TOTAL,Layer B primary rows,16,1.0000,GREEN + YELLOW
+TOTAL,director-level rows,14,0.8750,"co-incumbency excluded, never duplicated"
+COVERAGE BIAS,Layer B rows / La Liga club-seasons in window,16,0.2667,16 of 60 club-seasons in the three behavioural seasons
+COVERAGE BIAS,NO WEIGHTING APPLIED,0,NA,Stage 3 rejected inverse-probability weighting; composition is disclosed instead

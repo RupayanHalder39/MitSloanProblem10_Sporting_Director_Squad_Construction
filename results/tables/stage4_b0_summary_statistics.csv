@@ -1,0 +1,5 @@
+variable,N,mean,median_EMPHASIZED,SD,q1,q3,IQR_EMPHASIZED,minimum,maximum,range,IQR_over_median,note
+median_age,16,25.6437,25.9261,2.0332,23.9932,27.4627,3.4695,22.3751,28.3915,6.0164,0.1338,Median and IQR are the primary statistics; N = 16 is too small for the mean and SD to be relied on. No p-value is reported.
+u23_share,16,0.3584,0.3622,0.1156,0.3069,0.4432,0.1364,0.1667,0.5455,0.3788,0.3765,Median and IQR are the primary statistics; N = 16 is too small for the mean and SD to be relied on. No p-value is reported.
+age_30plus_share,16,0.2420,0.2633,0.0645,0.2237,0.2892,0.0656,0.1136,0.3103,0.1967,0.2490,Median and IQR are the primary statistics; N = 16 is too small for the mean and SD to be relied on. No p-value is reported.
+top5_valuation_concentration,16,0.4409,0.4537,0.0615,0.4045,0.4723,0.0678,0.2933,0.5469,0.2536,0.1494,Median and IQR are the primary statistics; N = 16 is too small for the mean and SD to be relied on. No p-value is reported.

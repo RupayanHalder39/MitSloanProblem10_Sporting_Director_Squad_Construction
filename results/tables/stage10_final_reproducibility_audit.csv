@@ -1,0 +1,6 @@
+manifest,scope,artifacts_recorded,mismatches,mismatched_artifacts,status
+stage4_artifact_hashes.csv,Stage 4 + canonical,18,0,none,VERIFIED UNCHANGED
+stage8_artifact_hashes.csv,Stage 8 + Stage 4 sources,24,0,none,VERIFIED UNCHANGED
+stage9_reproducibility_manifest.csv,Stage 2/3/4/8/9 chain,48,0,none,VERIFIED UNCHANGED
+stage95_hero_figure_manifest.csv,Stage 9.5 hero files,18,0,none,VERIFIED UNCHANGED
+TOTAL,all frozen artifacts,108,0,none,ALL FROZEN ARTIFACTS UNCHANGED BY STAGE 10

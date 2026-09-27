@@ -1,0 +1,1 @@
+# scripts/verify_release.py uses only the Python standard library.

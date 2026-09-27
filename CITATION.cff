@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software or aggregate research release, please cite it using this metadata."
+title: "Director or Club? Observed Squad-Construction Patterns of Sporting Directors in Spanish Football"
+type: software
+authors:
+  - given-names: "Rupayan"
+    family-names: "Halder"
+year: 2026
+license: MIT
+repository-code: "https://github.com/RupayanHalder39/MitSloanProblem10_Sporting_Director_Squad_Construction"
+abstract: "Code, aggregate evidence, figures, and documentation for a descriptive study of observed squad-construction patterns in documented Spanish top-flight Sporting Director club-seasons."

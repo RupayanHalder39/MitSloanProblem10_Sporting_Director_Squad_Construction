@@ -49,7 +49,6 @@ observations or sample-expanding imputation.
 |---|---:|---:|---:|---:|
 | Context | 44 | 13 | 14 | 7 |
 | Behavioural | 16 | 10 | 9 | 3 |
-| Director summaries, after excluding two co-incumbent rows | 14 | 8 | — | — |
 
 Inclusion depends on documentation availability, not random sampling. No weighting correction was
 applied because the selection mechanism cannot be estimated. Every conclusion therefore applies
